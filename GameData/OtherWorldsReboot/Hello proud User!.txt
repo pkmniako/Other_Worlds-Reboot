@@ -1,0 +1,138 @@
+  ooooooooo     ooooooooo    oo     ooo    ooooooooo      ooooooooo        o             o    ooooooooo    ooooooooo       o          ooooooooo        oooooooooo
+ o         o   o         o   o o    o  o   o        o    o        o        oo           oo   o         o   o        o     oo          oo       o      o        o
+o   ooooo   o oooo    ooooo  o  o   o   o  o   ooooooo  o   ooo  o         o o         o o  o   ooooo   o  o   ooo  o    o o          o oooo    o    o   oooooo
+o   o   o   o    o    o      o   o  o   o  o   o        o   o o o          o  o       o  o  o   o   o   o  o   o o o    o  o          o  o  o    o   o    o 
+o   o   o   o    o    o      o   o  o   o  o   ooooo    o   oooo           o   o     o   o  o   o   o   o  o   oooo     o  o          o   o  oooooo   o    o  
+o   o   o   o    o    o      o   oooo   o  o        o   o   o   o          o   o     o   o  o   o   o   o  o   o   o    o  o          o   o     o o    o    o   
+o   o   o   o    o    o      o          o  o   ooooooo  o   oo   o         o   o  o  o   o  o   o   o   o  o   oo   o   o  o          o   o    o  o     oooooo 
+ o  o   o   o    o    o      o   oo     o   o  o        o   o o   o        o   o o o o   o   o  o   o   o  o   o o   o  o  o          o   o   o  o     oo    oo       +++ +++ +++         ooo   ooo   ooo    o       o
+  o o   o   o    o    o      o   o o    o    o o        o  o   o  o        o   oo   oo   o    o o   o   o  o  o   o  o  o  o          o   o  o  o     o o    o o      + + + + +           o o   o     o o    o       ooo
+   oooooo   o    o    o      o   o  o   o     oooooooo  o o     o o        o    o       o      oooooo   o  o o     o o  o  ooooooooo  o   ooo  o     o  oooooo  o     +++ ++  ++   /////  o o   ooo   o o    ooo ooo o   ooo
+    o       o     o   o       o  o   o  o      o     o  oo       oo         o  o o     o        o       o  oo       oo  o         o    o      o       o        o      +   + + +           o o     o   o o    o o o o o   o o
+     oooooooo      oooo        ooo    ooo       oooooo  o         o          oo   ooooo          oooooooo  o         o  oooooooooo      oooooo         oooooooo       +   + + +++         ooo o ooo o ooo    ooo oo   oo oooo
+
+Other Worlds Reboot for KSP 1.4.5/1.5.X/1.6.X version pre-0.5.0 beta. (??/??/201?)
+Creator: pkmniako (Niako) - Licensed under CC BY-NC-ND - Credits at the bottom of this file
+
+Hello Proud User! Thank you for downloading Other Worlds Reboot mod, this is some useful information that might help you in the future:
+
+> If you encounter any errors/bugs/oversights or any other type of shenanigans or crazyness, please report to the following link:
+		https://forum.kerbalspaceprogram.com/index.php?/topic/164146-15-14-13-other_worlds-star-pack-reboot-redoing-the-whole-system-again
+
+> You have downloaded this version from Github.
+
+> If you want to install a new version of the mod, please remove the folder "OtherWorldsReboot" from the "GameData" folder before reinstalling.
+
+> For the moment, no optional features are included.
+
+You might ask what does this BRAND NEW version includes to the mix, so here you go:
+	
+----------------------------------------------------------------------------------------------------------------------------------------------------
+	Changelog:
+		-------------------------------- pre 0.5 --------------------------------
+		> pre-0.5.0 Beta
+			/ Celestial Bodies
+				- Moved Cercani to its spot in IC 
+				- Cercani is now at a distance of 3.2 ki (3.2*10^13 m) away from home
+				- Added asteroidal moon C4-1 orbiting Nienna
+				- Added asteroidal moon C4-2 orbiting Nienna
+				- Revamped Niko's map to have a better fitting look
+				- Nienna's moons' orbits have been tweaked
+				- Decreased the mass of Crons
+				- Prima and Secunda are now proper binaries
+				- Localization of planet's descriptions and names (French and Russian)
+				- Non-Scatterer atmospheric effect if only using EVE (Credits go to JadeOfMaar)
+				/ Updated Atmospheres of all the planets. Now these work with Sigma Dimensions
+				- Added Orbital Icons that were teased with the implementation of the feature
+				- Changed Cercani's Rotation period
+				- Changed Pequar's Surface Pressure to 0.2 atm
+				- Changed Disole's Surface Pressure to 1.7 atm
+				- Refined C2-1's and C3-1's color textures
+			/ Gameplay
+				/ Medium sized Laser Sails
+				- Laser Generator
+				- Easy to use UI
+				- Ability to slow down a sail with lasers
+				- Addition of ContractConfigurator contracts for exploration of interstellar space
+				- Ore, CRP Resources and Classic Resources Distribution on all planets
+			- Fixes
+				- Fixed Scatterer-OnDemand loading bug. Even faster loading.
+				- Fixed Non-Scatterer flare
+				- Fixed Cercani's size and mass problem
+				- Fixed strage sphere orbiting Nienna
+				- Fixed Atmospheric Rims on some of the planets
+				- Fixed weird coloring on some planets' surfaces
+			- Other
+				- Compatibility with Interstellar Consortium
+				- Better organization of folders
+				- Fixed possible cause of incompatibility with SVE
+		---------------------------------- 0.4 ----------------------------------
+		> 0.4.3 Alpha
+			- Added OnDemand loading. Less RAM usage
+			- Fixed C2-1 and C3-1, now you can actually land on them!
+			- Changed Vassa's Colormap, now with very nice gradients between grey and white
+			- Changed Disole's Cliff color, now darker than the surroundings
+			- Fixed Troni's biomes. More fixes for Troni will come soon
+		> 0.4.2 Alpha
+			- Finished Crons Color and Height maps (Finalized design)
+			- Transformed most planet textures into .dds -> Faster Loading!
+			- Added Compatibility with Kopernicus Expansion: Troni's lava glows on the dark
+			- Biomes Maps for Crons and Troni (Functionality in later not yet implemented)
+			- New Orbits for the planets, very similar but balanced, mainly inclinations
+			- Removed weird polar asteroid belt around Cercani
+			- Added proper asteroid belts around Cercani (Inner, Middle and Outer/Scattered)
+		> 0.4.1 Alpha
+			- 1.4.3 Compatible
+			- Fixed ground textures and shininess
+			- Added cirrus clouds to Nienna
+			- Redid Inter-Vision's Flag. Now it doesn't say "Ointer". And OWR's flag too...
+		> 0.4 Alpha
+			- Balanced the part costs of the laser sail, so now it makes more sense in career mode!
+  			- Put the parts of the laser sail in the correct spots in the RnD Tech Tree
+  			- Added Kevari, Crons, Niko, Prima and Secunda, though not in their best states.
+  			- Added aurorae to Pequar (Currntly green, may change color to red)
+  			- Added a RCS pack for the sail, so to manouver better and pinpoint flybies (Needs some work)
+  			- Now OWR uses CTTP v1.0.3 onwards
+  			- SigmaLoadingScreens compatible
+		---------------------------------- 0.3 ----------------------------------
+		> 0.3 Alpha
+			- Added Nienna
+			- Added the SPRITE parts (Project Breakthrough Starshot Laser Sail)
+			- Shenanigans with Disole's cloud colors
+			- Tweaked Cercani's Sunflare
+		---------------------------------- 0.2 ----------------------------------
+		> 0.2 Alpha
+			- Now for 1.3.1
+			- Cercani was moved 10 times closed to Kerbol
+			- Pequar, Disole and C3-1 are added.
+			- Removed EVE shadows compatibility due to bugs.
+		---------------------------------- 0.1 ----------------------------------
+		> 0.1.1 Alpha
+			- Added Troni... again.
+		> 0.1 Alpha
+			- Added Cercani
+			- Not Added Troni
+			- Added Vassa
+			- Added C2-1
+----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------- Credits ---------------------------------------------------------------------
+	> Thomas P. - Creation of Kopernicus, helping me with some shenanigans, IC and being cool in general
+	> JadeOfMaar - Non-Scatterer atmospheric config files
+	> CaptRobau / Galileo / Bunch others... - Creation and maintaining of CTTP
+	> JAXA - Altimetry Data for the heightmaps
+	> NASA's LRO - Crater altimetry
+	> NASA / ESA - Poles of Mars Altimetry data and part of cloud maps. Altimetry Data for the heightmaps too.
+	> Vladimir Romanyuk (SE) - Placeholder Cloud Textures, Star backgrounds for promotional images, 80-90 degrees latitude placeholder poles of Kevari. Base of the original mod.
+	> A bunch of people - Giving me the will to do this
+----------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------TO-DO-----------------------------------------------------------------------
+	> 0.6.0
+		? Enhance Planet Surfaces
+		? Add information tab to Laser UI
+		? Add manouver generator for slow down of sails
+		? Revamp Kevari
+		? Revamp Troni
+		? Added custom nodes for parts in the RnD building
+----------------------------------------------------------------------------------------------------------------------------------------------------
+		
+Please enjoy the mod!
