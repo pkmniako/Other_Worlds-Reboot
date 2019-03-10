@@ -42,7 +42,7 @@ You might ask what does this BRAND NEW version includes to the mix, so here you 
 				- Prima and Secunda are now proper binaries
 				- Localization of planet's descriptions and names (French and Russian)
 				- Non-Scatterer atmospheric effect if only using EVE (Credits go to JadeOfMaar)
-				/ Updated Atmospheres of all the planets. Now these work with Sigma Dimensions
+				- Updated Atmospheres of all the planets. Now these work with Sigma Dimensions
 				- Added Orbital Icons that were teased with the implementation of the feature
 				- Changed Cercani's Rotation period
 				- Changed Pequar's Surface Pressure to 0.2 atm
