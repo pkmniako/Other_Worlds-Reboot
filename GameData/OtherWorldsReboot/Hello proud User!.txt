@@ -5,13 +5,13 @@ o   o   o   o    o    o      o   o  o   o  o   o        o   o o o          o  o 
 o   o   o   o    o    o      o   o  o   o  o   ooooo    o   oooo           o   o     o   o  o   o   o   o  o   oooo     o  o          o   o  oooooo   o    o  
 o   o   o   o    o    o      o   oooo   o  o        o   o   o   o          o   o     o   o  o   o   o   o  o   o   o    o  o          o   o     o o    o    o   
 o   o   o   o    o    o      o          o  o   ooooooo  o   oo   o         o   o  o  o   o  o   o   o   o  o   oo   o   o  o          o   o    o  o     oooooo 
- o  o   o   o    o    o      o   oo     o   o  o        o   o o   o        o   o o o o   o   o  o   o   o  o   o o   o  o  o          o   o   o  o     oo    oo       +++ +++ +++         ooo   ooo   ooo    o       o
-  o o   o   o    o    o      o   o o    o    o o        o  o   o  o        o   oo   oo   o    o o   o   o  o  o   o  o  o  o          o   o  o  o     o o    o o      + + + + +           o o   o     o o    o       ooo
-   oooooo   o    o    o      o   o  o   o     oooooooo  o o     o o        o    o       o      oooooo   o  o o     o o  o  ooooooooo  o   ooo  o     o  oooooo  o     +++ ++  ++   /////  o o   ooo   o o    ooo ooo o   ooo
-    o       o     o   o       o  o   o  o      o     o  oo       oo         o  o o     o        o       o  oo       oo  o         o    o      o       o        o      +   + + +           o o     o   o o    o o o o o   o o
-     oooooooo      oooo        ooo    ooo       oooooo  o         o          oo   ooooo          oooooooo  o         o  oooooooooo      oooooo         oooooooo       +   + + +++         ooo o ooo o ooo    ooo oo   oo oooo
+ o  o   o   o    o    o      o   oo     o   o  o        o   o o   o        o   o o o o   o   o  o   o   o  o   o o   o  o  o          o   o   o  o     oo    oo       ooo   ooo   ooo    o       o
+  o o   o   o    o    o      o   o o    o    o o        o  o   o  o        o   oo   oo   o    o o   o   o  o  o   o  o  o  o          o   o  o  o     o o    o o      o o   o     o o    o       ooo
+   oooooo   o    o    o      o   o  o   o     oooooooo  o o     o o        o    o       o      oooooo   o  o o     o o  o  ooooooooo  o   ooo  o     o  oooooo  o     o o   ooo   o o    ooo ooo o   ooo
+    o       o     o   o       o  o   o  o      o     o  oo       oo         o  o o     o        o       o  oo       oo  o         o    o      o       o        o      o o     o   o o    o o o o o   o o
+     oooooooo      oooo        ooo    ooo       oooooo  o         o          oo   ooooo          oooooooo  o         o  oooooooooo      oooooo         oooooooo       ooo o ooo o ooo    ooo oo   oo oooo
 
-Other Worlds Reboot for KSP 1.4.5/1.5.X/1.6.X version pre-0.5.0 beta. (??/??/201?)
+Other Worlds Reboot for KSP 1.4.5/1.5.X/1.6.X version pre-0.5.0 beta. (14/03/2019)
 Creator: pkmniako (Niako) - Licensed under CC BY-NC-ND - Credits at the bottom of this file
 
 Hello Proud User! Thank you for downloading Other Worlds Reboot mod, this is some useful information that might help you in the future:
@@ -29,8 +29,8 @@ You might ask what does this BRAND NEW version includes to the mix, so here you 
 	
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 	Changelog:
-		-------------------------------- pre 0.5 --------------------------------
-		> pre-0.5.0 Beta
+		-------------------------------- 0.5 --------------------------------
+		> 0.5.0 Beta
 			- Celestial Bodies
 				- Moved Cercani to its spot in IC 
 				- Cercani is now at a distance of 3.2 ki (3.2*10^13 m) away from home
@@ -63,6 +63,7 @@ You might ask what does this BRAND NEW version includes to the mix, so here you 
 				- Fixed Atmospheric Rims on some of the planets
 				- Fixed weird coloring on some planets' surfaces
 			- Other
+				- French/Spanish/Russian translation of Part Descriptions/Names & Planet Descriptions/Biomes (Thanks to Arthur (FR) and Zarbon (RU) for their respective translations!)
 				- Compatibility with Interstellar Consortium
 				- Better organization of folders
 				- Fixed possible cause of incompatibility with SVE
@@ -116,6 +117,7 @@ You might ask what does this BRAND NEW version includes to the mix, so here you 
 			- Added C2-1
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------- Credits ---------------------------------------------------------------------
+	> Tutur and Zarbon for the French and Russian translations respectively
 	> Thomas P. - Creation of Kopernicus, helping me with some shenanigans, IC and being cool in general
 	> JadeOfMaar - Non-Scatterer atmospheric config files
 	> CaptRobau / Galileo / Bunch others... - Creation and maintaining of CTTP
