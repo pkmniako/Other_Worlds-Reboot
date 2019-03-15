@@ -31,7 +31,7 @@ You might ask what does this BRAND NEW version includes to the mix, so here you 
 	Changelog:
 		-------------------------------- pre 0.5 --------------------------------
 		> pre-0.5.0 Beta
-			/ Celestial Bodies
+			- Celestial Bodies
 				- Moved Cercani to its spot in IC 
 				- Cercani is now at a distance of 3.2 ki (3.2*10^13 m) away from home
 				- Added asteroidal moon C4-1 orbiting Nienna
@@ -48,8 +48,8 @@ You might ask what does this BRAND NEW version includes to the mix, so here you 
 				- Changed Pequar's Surface Pressure to 0.2 atm
 				- Changed Disole's Surface Pressure to 1.7 atm
 				- Refined C2-1's and C3-1's color textures
-			/ Gameplay
-				/ Medium sized Laser Sails
+			- Gameplay
+				- Medium sized Laser Sails
 				- Laser Generator
 				- Easy to use UI
 				- Ability to slow down a sail with lasers
